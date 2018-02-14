@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<h1>Hello!</h1>
+		<h2>Welcome to the CS1 Concept Inventory Project website.</h2>
+	</head>
+
+	<body>
+		<p>We are a group of professors, students and researchers aiming at better understanding undergraduates' misconceptions when learning programming, which has been held through some Concept Inventories (CI).<br>
+		A Concept Inventory is a survey that students take regarding the subject whose issues we wish to analyze - in our case, introductory programming.</p>
+
+		<p>So far, we have been working with one template of a C language Concept Inventory, in English.<br>
+		Professors anywhere in the world are allowed to create their own instances of this template, send them to students (who will anonymously answer to the survey) and check the answers report after that.<br>
+		Please note that our project is a work in progress; thus, there is only one CI template available and the answers report does not show yet all statistics regarding them, but instead, a simple summary of (a) which alternatives have been chosen by each student in each question (in PDF) and (b) how many times each alternative has been chosen (in XSL). We are currently working in the improvement of these issues.</p>
+
+		<p>In order to create an instance of the Concept Inventory and apply it to your course, please observe the following steps.</p>
+
+		<p>1) If you already have an account, select that option, submit your username/password and choose the template you wish to use to create your instance of the CI (so far, there is only one template available: C (English)). Proceed to step 3.<br>
+		2) If you do not have an account, select the option "Sign up Now!". Insert and submit your data.<br>
+		3) You will be shown, as well as receive via e-mail, four different links. Take note of them:<br>
+    		&nbsp;&nbsp;&nbsp;&nbsp;(A) a test link, which you can use to submit fake answers and get familiar with the survey. Answers submitted through this link will not be considered;<br>
+    		&nbsp;&nbsp;&nbsp;&nbsp;(B) an official link to the real CI. This is the link that must be sent to your students and whose answers will be recorded;<br>
+    		&nbsp;&nbsp;&nbsp;&nbsp;(C) a link to download a PDF with all answers;<br>
+       		&nbsp;&nbsp;&nbsp;&nbsp;(D) a link to download a XLS with the statistics.<br>
+		4) Send (B) to your students and wait for them to answer to the survey.<br>
+		5) After enough answers have been submitted, you can use (C) and/or (D) to view your students' answers report. </p>
+
+		<p>We hope you and your students will find our CI to be a helpful tool to understand and improve introductory programming learning.</p>
+
+		<p>If you need further help and/or information, contact us through <b>caceffo@ic.unicamp.br</b>. 
+
+		<p>Thank you and best regards! </p>
+	</body>
+</html> 
